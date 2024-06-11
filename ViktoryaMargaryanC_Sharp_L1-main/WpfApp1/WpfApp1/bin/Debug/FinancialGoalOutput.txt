@@ -1,0 +1,35 @@
+Financial Goal: Table
+Amount: 190
+Start Date: 4/7/2024 3:26:07 PM
+End Date: 4/7/2024 3:26:07 PM
+------------------------------
+Financial Goal: Bag
+Amount: 40
+Start Date: 4/12/2024 12:00:00 AM
+End Date: 5/11/2024 12:00:00 AM
+Daily Savings Amount: $1.38 for the entire duration of the goal
+------------------------------
+Financial Goal: PC
+Amount: 2000
+Start Date: 5/1/2024 12:00:00 AM
+End Date: 5/31/2024 12:00:00 AM
+Daily Savings Amount: $66.67 for the entire duration of the goal
+------------------------------
+Financial Goal: Laptop
+Amount: 1600
+Start Date: 4/9/2024 12:00:00 AM
+End Date: 4/30/2024 12:00:00 AM
+Daily Savings Amount: $76.19 for the entire duration of the goal
+------------------------------
+Financial Goal: meqena
+Amount: 200
+Start Date: 12/06/2024 00:00:00
+End Date: 21/06/2024 00:00:00
+Daily Savings Amount:  22.22 for the entire duration of the goal
+------------------------------
+Financial Goal: meqena
+Amount: 200
+Start Date: 12/06/2024 00:00:00
+End Date: 21/06/2024 00:00:00
+Daily Savings Amount:  22.22 for the entire duration of the goal
+------------------------------

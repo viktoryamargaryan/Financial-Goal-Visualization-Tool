@@ -1,0 +1,28 @@
+C:\Users\artur\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\artur\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\artur\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\artur\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\artur\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\artur\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\artur\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\artur\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\artur\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\artur\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\artur\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\artur\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\artur\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Documents\Downloads\ArturBabayanC_Sharp_L1-main (2)\ViktoryaMargaryanC_Sharp_L1-main\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Documents\Downloads\ArturBabayanC_Sharp_L1-main (2)\ViktoryaMargaryanC_Sharp_L1-main\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Documents\Downloads\ArturBabayanC_Sharp_L1-main (2)\ViktoryaMargaryanC_Sharp_L1-main\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Documents\Downloads\ArturBabayanC_Sharp_L1-main (2)\ViktoryaMargaryanC_Sharp_L1-main\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Documents\Downloads\ArturBabayanC_Sharp_L1-main (2)\ViktoryaMargaryanC_Sharp_L1-main\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Documents\Downloads\ArturBabayanC_Sharp_L1-main (2)\ViktoryaMargaryanC_Sharp_L1-main\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Documents\Downloads\ArturBabayanC_Sharp_L1-main (2)\ViktoryaMargaryanC_Sharp_L1-main\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Documents\Downloads\ArturBabayanC_Sharp_L1-main (2)\ViktoryaMargaryanC_Sharp_L1-main\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Documents\Downloads\ArturBabayanC_Sharp_L1-main (2)\ViktoryaMargaryanC_Sharp_L1-main\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Documents\Downloads\ArturBabayanC_Sharp_L1-main (2)\ViktoryaMargaryanC_Sharp_L1-main\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Documents\Downloads\ArturBabayanC_Sharp_L1-main (2)\ViktoryaMargaryanC_Sharp_L1-main\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Documents\Downloads\ArturBabayanC_Sharp_L1-main (2)\ViktoryaMargaryanC_Sharp_L1-main\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Documents\Downloads\ArturBabayanC_Sharp_L1-main (2)\ViktoryaMargaryanC_Sharp_L1-main\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Documents\Downloads\ArturBabayanC_Sharp_L1-main (2)\ViktoryaMargaryanC_Sharp_L1-main\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
